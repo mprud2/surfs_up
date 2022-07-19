@@ -8,10 +8,10 @@ The purpose of this project is to investigate the weather patterns on the island
 In order to conduct this analysis, we used SQLite to explore the data, SQLAlchemy to reflect the data into tables that we could query, Jupyter Notebook to create the code, and Flask to create a webpage where other potential investors can see the results.
 
 ### Data Sources and Tools Used
-Data Source: hawaii.sqlite
-Tools Used: Python SQL toolkit (SQLAlchemy), Object Relational Mapper, pandas, numpy
-Software: SQLlite, Python 3.7.13, Flask, Jupyter Notebook
-Deliverables: SurfsUp_Challenge.ipynb, climate_analysis.ipynb
+-Data Source: hawaii.sqlite
+-Tools Used: Python SQL toolkit (SQLAlchemy), Object Relational Mapper, pandas, numpy
+-Software: SQLlite, Python 3.7.13, Flask, Jupyter Notebook
+-Deliverables: SurfsUp_Challenge.ipynb, climate_analysis.ipynb
 
 ## Results
 
